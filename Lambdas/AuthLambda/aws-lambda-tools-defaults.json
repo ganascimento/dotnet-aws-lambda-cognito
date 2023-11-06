@@ -1,0 +1,11 @@
+{
+  "Information": [],
+  "profile": "aws-legion-user",
+  "region": "us-east-2",
+  "configuration": "Release",
+  "function-architecture": "x86_64",
+  "function-runtime": "dotnet6",
+  "function-memory-size": 256,
+  "function-timeout": 30,
+  "function-handler": "AuthLambda::AuthLambda.Function::FunctionHandler"
+}
